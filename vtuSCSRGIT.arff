@@ -1,0 +1,54 @@
+@relation NewRelation
+@attribute intSCS22 numeric
+@attribute nameusn {'APARNA N (1RG14SCS01) ','BHASKARJYOTI DAS (1RG14SCS03) ','KAVITHA. K (1RG14SCS04) ','MANASA C.H (1RG14SCS06) ','NOMITA NINGTHOUJAM (1RG14SCS07) ','SATISH BABU M (1RG14SCS05) ','SHAMALA M G (1RG14SCS08) ','SHAZIA ALMAS (1RG14SCS09) ','SHYLAJA B.N (1RG14SCS10) ','SUMALATHA A (1RG14SCS11) ','SURAKSHA H.G (1RG14SCS12) '}
+@attribute result {' Result:  FAIL ',' Result:  FIRST CLASS ',' Result:  FIRST CLASS WITH DISTINCTION '}
+@attribute totSCS252 numeric
+@attribute int_SCS27 numeric
+@attribute mongoId {55d821dae18bc319b0aaa286,55d821dae18bc319b0aaa287,55d821dbe18bc319b0aaa288,55d821dbe18bc319b0aaa289,55d821dce18bc319b0aaa28a,55d821dce18bc319b0aaa28b,55d821dde18bc319b0aaa28c,55d821dde18bc319b0aaa28d,55d821dee18bc319b0aaa28e,55d821dee18bc319b0aaa28f,55d821dfe18bc319b0aaa290}
+@attribute SCS27 {'Seminar (14SCS27)'}
+@attribute int_SCS21 numeric
+@attribute passfailSCS23 {F,P}
+@attribute SCS23 {'Advanced Algorithms (14SCS23)'}
+@attribute extSCS24 numeric
+@attribute collegeCode {1RG}
+@attribute ext_SCS27 numeric
+@attribute ext_SCS23 numeric
+@attribute ext_SCS252 numeric
+@attribute int_SCS252 numeric
+@attribute int_SCS23 numeric
+@attribute passfail_SCS27 {P}
+@attribute tot_SCS22 numeric
+@attribute int_SCS24 numeric
+@attribute sub_SCS252 {'Information and Network Security (14SCS252)'}
+@attribute passfail_SCS21 {P}
+@attribute ext_SCS22 numeric
+@attribute tot_SCS27 numeric
+@attribute SCS22 {'Advances in Computer Networks (14SCS22)'}
+@attribute tot_SCS21 numeric
+@attribute tot_SCS24 numeric
+@attribute tot_SCS26 numeric
+@attribute SCS26 {'Advanced Algorithms Laboratory (14SCS26)'}
+@attribute passfail_SCS24 {P}
+@attribute passfail_SCS22 {F,P}
+@attribute passfail_SCS26 {P}
+@attribute ext_SCS26 numeric
+@attribute collegeName {'Rajiv Gandhi Institute of Technology'}
+@attribute ext_SCS21 numeric
+@attribute passfail_SCS252 {P}
+@attribute tot_SCS23 numeric
+@attribute sub_SCS24 {'Artificial Intelligence and Agent Technology (14SCS24)'}
+@attribute int_SCS26 numeric
+@attribute sub_SCS21 {'Managing Big Data (14SCS21)'}
+@attribute semester {2}
+@data
+ 44,'APARNA N (1RG14SCS01) ',' Result:  FAIL ', 113, 20,55d821dae18bc319b0aaa286,'Seminar (14SCS27)', 36,P,'Advanced Algorithms (14SCS23)', 50,1RG, 0, 44, 71, 42, 40,P, 78, 45,'Information and Network Security (14SCS252)',P, 34, 20,'Advances in Computer Networks (14SCS22)', 90, 95, 53,'Advanced Algorithms Laboratory (14SCS26)',P,F,P, 30,'Rajiv Gandhi Institute of Technology', 54,P, 84,'Artificial Intelligence and Agent Technology (14SCS24)', 23,'Managing Big Data (14SCS21)',2
+ 48,'BHASKARJYOTI DAS (1RG14SCS03) ',' Result:  FIRST CLASS WITH DISTINCTION ', 127, 24,55d821dae18bc319b0aaa287,'Seminar (14SCS27)', 46,P,'Advanced Algorithms (14SCS23)', 65,1RG, 0, 41, 78, 49, 48,P, 118, 50,'Information and Network Security (14SCS252)',P, 70, 24,'Advances in Computer Networks (14SCS22)', 106, 115, 73,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 49,'Rajiv Gandhi Institute of Technology', 60,P, 89,'Artificial Intelligence and Agent Technology (14SCS24)', 24,'Managing Big Data (14SCS21)',2
+ 47,'KAVITHA. K (1RG14SCS04) ',' Result:  FIRST CLASS WITH DISTINCTION ', 114, 22,55d821dbe18bc319b0aaa288,'Seminar (14SCS27)', 42,P,'Advanced Algorithms (14SCS23)', 51,1RG, 0, 60, 66, 48, 47,P, 103, 48,'Information and Network Security (14SCS252)',P, 56, 22,'Advances in Computer Networks (14SCS22)', 100, 99, 60,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 37,'Rajiv Gandhi Institute of Technology', 58,P, 107,'Artificial Intelligence and Agent Technology (14SCS24)', 23,'Managing Big Data (14SCS21)',2
+ 46,'SATISH BABU M (1RG14SCS05) ',' Result:  FAIL ', 96, 24,55d821dbe18bc319b0aaa289,'Seminar (14SCS27)', 40,F,'Advanced Algorithms (14SCS23)', 49,1RG, 0, 34, 49, 47, 45,P, 104, 48,'Information and Network Security (14SCS252)',P, 58, 24,'Advances in Computer Networks (14SCS22)', 87, 97, 58,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 35,'Rajiv Gandhi Institute of Technology', 47,P, 79,'Artificial Intelligence and Agent Technology (14SCS24)', 23,'Managing Big Data (14SCS21)',2
+ 47,'MANASA C.H (1RG14SCS06) ',' Result:  FIRST CLASS ', 104, 21,55d821dce18bc319b0aaa28a,'Seminar (14SCS27)', 44,P,'Advanced Algorithms (14SCS23)', 57,1RG, 0, 45, 59, 45, 42,P, 94, 45,'Information and Network Security (14SCS252)',P, 47, 21,'Advances in Computer Networks (14SCS22)', 96, 102, 69,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 45,'Rajiv Gandhi Institute of Technology', 52,P, 87,'Artificial Intelligence and Agent Technology (14SCS24)', 24,'Managing Big Data (14SCS21)',2
+ 46,'NOMITA NINGTHOUJAM (1RG14SCS07) ',' Result:  FIRST CLASS WITH DISTINCTION ', 118, 24,55d821dce18bc319b0aaa28b,'Seminar (14SCS27)', 46,P,'Advanced Algorithms (14SCS23)', 55,1RG, 0, 49, 69, 49, 49,P, 98, 48,'Information and Network Security (14SCS252)',P, 52, 24,'Advances in Computer Networks (14SCS22)', 108, 103, 74,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 49,'Rajiv Gandhi Institute of Technology', 62,P, 98,'Artificial Intelligence and Agent Technology (14SCS24)', 25,'Managing Big Data (14SCS21)',2
+ 49,'SHAMALA M G (1RG14SCS08) ',' Result:  FIRST CLASS WITH DISTINCTION ', 121, 24,55d821dde18bc319b0aaa28c,'Seminar (14SCS27)', 49,P,'Advanced Algorithms (14SCS23)', 72,1RG, 0, 70, 71, 50, 49,P, 105, 49,'Information and Network Security (14SCS252)',P, 56, 24,'Advances in Computer Networks (14SCS22)', 120, 121, 73,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 48,'Rajiv Gandhi Institute of Technology', 71,P, 119,'Artificial Intelligence and Agent Technology (14SCS24)', 25,'Managing Big Data (14SCS21)',2
+ 46,'SHAZIA ALMAS (1RG14SCS09) ',' Result:  FIRST CLASS WITH DISTINCTION ', 114, 21,55d821dde18bc319b0aaa28d,'Seminar (14SCS27)', 45,P,'Advanced Algorithms (14SCS23)', 54,1RG, 0, 48, 65, 49, 47,P, 115, 49,'Information and Network Security (14SCS252)',P, 69, 21,'Advances in Computer Networks (14SCS22)', 100, 103, 60,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 37,'Rajiv Gandhi Institute of Technology', 55,P, 95,'Artificial Intelligence and Agent Technology (14SCS24)', 23,'Managing Big Data (14SCS21)',2
+ 49,'SHYLAJA B.N (1RG14SCS10) ',' Result:  FIRST CLASS WITH DISTINCTION ', 118, 22,55d821dee18bc319b0aaa28e,'Seminar (14SCS27)', 44,P,'Advanced Algorithms (14SCS23)', 60,1RG, 0, 63, 69, 49, 46,P, 101, 49,'Information and Network Security (14SCS252)',P, 52, 22,'Advances in Computer Networks (14SCS22)', 112, 109, 69,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 45,'Rajiv Gandhi Institute of Technology', 68,P, 109,'Artificial Intelligence and Agent Technology (14SCS24)', 24,'Managing Big Data (14SCS21)',2
+ 43,'SUMALATHA A (1RG14SCS11) ',' Result:  FIRST CLASS ', 97, 23,55d821dee18bc319b0aaa28f,'Seminar (14SCS27)', 46,P,'Advanced Algorithms (14SCS23)', 55,1RG, 0, 51, 54, 43, 48,P, 87, 49,'Information and Network Security (14SCS252)',P, 44, 23,'Advances in Computer Networks (14SCS22)', 105, 104, 71,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 48,'Rajiv Gandhi Institute of Technology', 59,P, 99,'Artificial Intelligence and Agent Technology (14SCS24)', 23,'Managing Big Data (14SCS21)',2
+ 42,'SURAKSHA H.G (1RG14SCS12) ',' Result:  FIRST CLASS ', 104, 20,55d821dfe18bc319b0aaa290,'Seminar (14SCS27)', 35,P,'Advanced Algorithms (14SCS23)', 45,1RG, 0, 43, 57, 47, 42,P, 89, 47,'Information and Network Security (14SCS252)',P, 47, 20,'Advances in Computer Networks (14SCS22)', 94, 92, 57,'Advanced Algorithms Laboratory (14SCS26)',P,P,P, 34,'Rajiv Gandhi Institute of Technology', 59,P, 85,'Artificial Intelligence and Agent Technology (14SCS24)', 23,'Managing Big Data (14SCS21)',2
