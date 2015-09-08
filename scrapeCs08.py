@@ -1,5 +1,3 @@
-#This code works for scraping the results of 8th semester 2015 
-
 #last updated on 25/08 so that we can scrape the 4th semester results 
 #========================================================================
 #Last changed 23/08 evening 
@@ -71,7 +69,7 @@ with open('collegelist.txt') as f:
 count = 0
 
 for a,b in zip(collegeno,maxrollno):
-    for i in range(1,125):  #replaced int(b)+1 with 101
+    for i in range(700,725):  #replaced int(b)+1 with 101
         usn= (a+'11cs'+"%03d"%i).upper()  #changed here as per format 
         print (usn)
         count +=1
